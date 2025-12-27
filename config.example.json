@@ -1,0 +1,16 @@
+{
+  "MODO": "producao",
+  "LEITURA": "SEQUENCIAL",
+  "INPUT_GMAIL": "gmail.txt",
+  "INPUT_TESTES": "testes.txt",
+  "OUTPUT_GMAIL": "gmail_ok.txt",
+  "OUTPUT_2FA": "gmail_ok_2fa.txt",
+  "OUTPUT_TESTED": "gmail_testados.txt",
+  "PROXY_FILE": "proxies.txt",
+  "USE_PROXY": true,
+  "TIMEOUT": 60000,
+  "DELAY_LINEAR": 2000,
+  "loglevel": 6,
+  "HEADLESS": "new",
+  "MAX_MEMORY_PERCENT": 50
+}

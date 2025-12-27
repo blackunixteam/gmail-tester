@@ -1,0 +1,11 @@
+{
+  "name": "gmail-puppeteer-checker",
+  "version": "3.0.0",
+  "description": "Validador via Emulação de Browser Real",
+  "main": "menu.js",
+  "dependencies": {
+    "puppeteer": "^21.6.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
